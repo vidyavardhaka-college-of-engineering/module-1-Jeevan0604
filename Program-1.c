@@ -5,7 +5,7 @@ int main()        // correct the code
 {   
     int number;
    
-    printf("Enter the integer:n ")     // Correct the code
+    printf("Enter the integer: ");     // Correct the code
     
     // reads and stores input
     scanf("%d", &number);
