@@ -4,11 +4,11 @@
  int main ()
 { 
 int i,j; // insert the missing code int i,j;
-printf("Enter the value of i and j");
+printf("");
 scanf("%d%d",&i,&j);
      i = i + 1;
       j = j + i + 1;  // correct the code
-      printf("%d %d  ",i + 1,j - 1);
+      printf("%d %d   ",i + 1,j - 1);
       printf("%d %d ",i,j);
 return 0;
 }
