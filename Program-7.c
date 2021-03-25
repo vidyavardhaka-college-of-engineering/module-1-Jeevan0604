@@ -4,10 +4,10 @@
 #include<stdio.h>
 int main()
 { // correct the code
- int i;
+   int i;
    float x;
    char ch;
-   printf("");
+   printf("Enter an integer value, floating point value and a character");
    scanf("%d%f %c",&i,&x,&ch);   // correct the code
    i = x;     // correct the code
    printf("i value is: %d ",i);
