@@ -2,8 +2,7 @@
 //OUTPUT: i value is 90 x value is 90.00000 i value is 65
 
 #include<stdio.h>
-int main()
-{ // correct the code
+int main() { // correct the code
    int i;
    float x;
    char ch;
