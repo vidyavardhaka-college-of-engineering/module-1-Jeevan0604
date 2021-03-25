@@ -3,9 +3,8 @@
 #include<stdio.h>
  int main ()
 { 
-     // insert the missing code
-     int i,j;
-printf("");
+int i,j; // insert the missing code int i,j;
+printf("Enter the value of i and j");
 scanf("%d%d",&i,&j);
      i = i + 1;
       j = j + i + 1;  // correct the code
