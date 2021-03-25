@@ -5,7 +5,7 @@
 { 
      // insert the missing code
      int i,j;
-printf("Enter the values of i and j");
+printf("");
 scanf("%d%d",&i,&j);
      i = i + 1;
       j = j + i + 1;  // correct the code
